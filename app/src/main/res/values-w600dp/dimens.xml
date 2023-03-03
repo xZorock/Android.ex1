@@ -1,3 +1,13 @@
 <resources>
-    <dimen name="fab_margin">48dp</dimen>
+    <dimen name="frag_content_main">0dp</dimen>
+    <dimen name="text_size_title">80sp</dimen>
+    <dimen name="btn_width_ff">390dp</dimen>
+    <dimen name="btn_size">40dp</dimen>
+    <dimen name="tv_title_margin_top">100dp</dimen>
+    <dimen name="btn_width_fs">500dp</dimen>
+    <dimen name="et_margin_top_fs">200dp</dimen>
+    <dimen name="et_text_size_fs">40sp</dimen>
+    <dimen name="btn_text_size_ff">40sp</dimen>
+    <dimen name="btn_back_fs">20sp</dimen>
+    <dimen name="btn_submit_names_fs">25sp</dimen>
 </resources>
